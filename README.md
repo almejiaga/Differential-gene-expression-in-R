@@ -8,7 +8,7 @@ You will need two files:
 A) Gene expression matrix. In this case, this input was obtained from FeatureCounts, and the first row corresponds to rownames and each column is an individual
 
 ```
-		                TCGA1		    TCGA2		     TCGA3		  TCGA4	
+			TCGA1		TCGA2		TCGA3		TCGA4	
 ENSG00000000003.13	11.04916787	9.665335917	10.01262454	11.14784089	
 ENSG00000000460.15	7.247927513	6.426264755	7.930737338	7.247927513	
 ENSG00000000971.14	6.918863237	6.50779464	7.499845887	7.977279923	
