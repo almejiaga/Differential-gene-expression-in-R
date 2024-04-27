@@ -33,3 +33,5 @@ sample	Condition	batch
 8	CONTROL		exp2
 ```
 
+## Running the scriopt
+Rscript DEGs.R
