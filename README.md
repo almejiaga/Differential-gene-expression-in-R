@@ -23,13 +23,13 @@ ENSG00000001497.15	11.38046107	10.97441459	11.62981194	10.97226185
 B) A factors table where you store the treatment for each individual and other covariables that you would like to include in the analysis
 ```
 sample	Condition	batch
-1	CONTROL	exp1
-2	CD	exp1
-3	OBE	exp1
-4	M1	exp1
-5	UA	exp1
-6	OA	exp1
-7	UAL	exp1
-8	CONTROL	exp2
+1	CONTROL		exp1
+2	CD		exp1
+3	OBE		exp1
+4	M1		exp1
+5	UA		exp1
+6	OA		exp1
+7	UAL		exp1
+8	CONTROL		exp2
 ```
 
