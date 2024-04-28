@@ -34,4 +34,12 @@ sample	Condition	batch
 ```
 
 ## Running the scriopt
-Rscript DEGs.R
+Rscript DEGs.R --count_table macrofagoshumanos_counts.txt --factors_table Factors.txt --condition1 "CONTROL" --condition2 "OBE" --label "OBECO"
+
+Additional arguments:
+
+--condition1: the first condition (its going to be the reference for the analysis
+
+--condition2: the alternative condition
+
+--label: label to include in all the outputs for the analysis
