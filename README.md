@@ -43,3 +43,16 @@ Additional arguments:
 --condition2: the alternative condition
 
 --label: label to include in all the outputs for the analysis
+
+## Outputs 
+
+### 1. DEGs csv file
+
+![image](https://github.com/almejiaga/Differential-gene-expression-in-R/assets/124840761/669dee2f-c226-46f0-b67e-f793cf1d3b2a)
+
+
+
+
+
+
+##
