@@ -56,14 +56,14 @@ This is the standard Differential gene expression output from Deseq2 but as a cs
 
 the normalized counts by depth and library composition as it is done by Deseq2, you can notice that now we have floats in the counts, indicating that they have been normalized
 
-
+```
 "","64","66"
 "1",26.2,34.7
 "2",1797.9,1482.01
 "3",479.5,573.9
 "4",4501.5,5060.36
 "5",94.7,103.13
-
+```
 
 ### 3. Basic Volcano plot with enhanced volcano plot R package
 
